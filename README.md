@@ -1,2 +1,2 @@
 # Simons_demise
-A very simple games that demonstrates collision.
+A very simple game that demonstrates collision.
